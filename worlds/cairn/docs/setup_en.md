@@ -5,7 +5,8 @@
 - [Cairn](https://store.steampowered.com/app/1588550/Cairn/)
 - [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases/latest)
 - [CairnAp](https://codeberg.org/TheCoolSquare/CairnAp)
-  - Requires [This MelonLoader Fork](https://github.com/SquareMan/MelonLoader)
+  - Requires a [Recent MelonLoader Nightly Build](https://github.com/LavaGang/MelonLoader) (v0.7.3-ci.2480 tested to work).
+  Download the Installer from the latest release and check "Enable Nightly builds" when selecting which version to install.
 - [This apworld](https://github.com/SquareMan/Archipelago)
 
 ## Where are the locations?
